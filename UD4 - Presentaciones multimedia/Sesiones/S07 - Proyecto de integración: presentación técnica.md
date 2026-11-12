@@ -9,8 +9,6 @@ criterios: RA7.a, RA7.b, RA7.c, RA7.d, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S07 - Proyecto de integración: presentación técnica
 
 ## Reto

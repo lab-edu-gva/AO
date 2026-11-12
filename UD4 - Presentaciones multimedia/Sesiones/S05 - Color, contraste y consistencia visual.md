@@ -9,8 +9,6 @@ criterios: RA7.c, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S05 - Color, contraste y consistencia visual
 
 ## Objetivos

@@ -9,8 +9,6 @@ criterios: RA7.a, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S01 - Entorno de trabajo y arquitectura de una presentación
 
 ## Objetivos
@@ -91,13 +89,7 @@ Crea una segunda copia en PDF. Compara ambos formatos:
 - ¿En cuál resulta más sencillo distribuir una versión que no quieres que se modifique?
 - ¿Qué problemas podrían aparecer al abrir el ODP en otro ordenador?
 
-## 8. Entrega
-Entrega:
-- Archivo ODP editable.
-- PDF exportado.
-- Guion previo de la presentación.
-
-## 9. Preguntas de comprensión
+## 8. Preguntas de comprensión
 1. ¿Por qué una presentación debe planificarse antes de diseñarse?
 2. ¿Qué diferencia existe entre ODP y PDF?
 3. ¿Qué función cumple el panel de diapositivas?

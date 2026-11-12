@@ -9,8 +9,6 @@ criterios: RA7.a, RA7.b, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S02 - Estructura, diseños y vistas
 
 ## Objetivos
@@ -76,10 +74,7 @@ Condiciones:
 ## 6. Reto de ampliación
 Duplica una diapositiva y crea dos alternativas de distribución para el mismo contenido. Compara cuál permite localizar más rápidamente la idea principal y explica por qué.
 
-## 7. Entrega
-Archivo `Ciclo_vida_equipo_Apellido_Nombre.odp`.
-
-## 8. Preguntas
+## 7. Preguntas
 1. ¿En qué se diferencia un diseño de diapositiva de una plantilla?
 2. ¿Qué tarea resulta más cómoda en el clasificador?
 3. ¿Para qué sirven las notas del presentador?

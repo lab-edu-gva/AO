@@ -9,8 +9,6 @@ criterios: RA7.c, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S04 - Tratamiento de imágenes y recursos gráficos
 
 ## Objetivos

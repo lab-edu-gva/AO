@@ -9,8 +9,6 @@ criterios: RA7.c, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S03 - Tipografía, jerarquía y composición
 
 ## Objetivos

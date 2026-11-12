@@ -9,8 +9,6 @@ criterios: RA7.c, RA7.d, RA7.e
 estado: Preparado
 publicar: true
 ---
-
-
 # S06 - Patrón, plantillas y sistema de diseño
 
 ## Objetivos
